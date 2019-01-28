@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/V4Bym9R" width=250><br>
+<img src="https://imgur.com/a/V4Bym9R.gif" width=250><br>
 
 ### Notes
 The app continously failed on me, which was a result of a typo in finding the itemView ID. Following the Debugging guidelines, I was able to find the source of the issue using the logcat.
